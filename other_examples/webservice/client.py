@@ -1,6 +1,6 @@
 import requests
 
-r = requests.get('https://api.github.com/user', auth=('ricardoahumada', 'izaskun7'))
+r = requests.get('https://api.github.com/user', auth=('ricardoahumada', 'xxx'))
 r.status_code
 r.headers['content-type']
 r.encoding
