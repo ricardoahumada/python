@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from area_calculator import calc_area
 
 res1 = calc_area('square', {'side': 2})
